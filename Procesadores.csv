@@ -1,0 +1,21 @@
+Nombre del Procesador,Fabricante,Número de Núcleos,Número de Hilos,Velocidad Base (GHz),Velocidad Turbo (GHz),Memoria Caché L3 (MB),TDP (W),Socket,Uso Principal
+Intel Core i9-14900K,Intel,24,32,3.2,6.0,36,125,LGA 1700,Gaming y Creación de Contenido
+AMD Ryzen 9 7950X3D,AMD,16,32,4.2,5.7,128,120,AM5,Gaming de Alto Rendimiento
+Intel Core i7-14700K,Intel,20,28,3.4,5.6,33,125,LGA 1700,Gaming y Productividad Avanzada
+AMD Ryzen 7 7800X3D,AMD,8,16,4.2,5.0,96,120,AM5,Gaming
+Intel Core i5-14600K,Intel,14,20,3.5,5.3,24,125,LGA 1700,Gaming y Productividad General
+AMD Ryzen 5 7600X,AMD,6,12,4.7,5.3,32,105,AM5,Gaming de Gama Media y Uso General
+Intel Core i9-13900K,Intel,24,32,3.0,5.8,36,125,LGA 1700,Gaming y Creación de Contenido Profesional
+AMD Ryzen 9 7900X,AMD,12,24,4.7,5.6,64,170,AM5,Creación de Contenido y Multitarea
+Apple M3 Max,Apple,16,16,N/A,N/A,N/A,N/A,Integrado,Profesionales Creativos (Mac)
+Apple M2 Ultra,Apple,24,24,N/A,N/A,N/A,N/A,Integrado,Edición de Video y 3D (Mac)
+Intel Core i7-13700K,Intel,16,24,3.4,5.4,30,125,LGA 1700,Gaming y Multitarea
+AMD Ryzen 7 7700X,AMD,8,16,4.5,5.4,32,105,AM5,Gaming y Productividad
+Intel Core i5-13600K,Intel,14,20,3.5,5.1,24,125,LGA 1700,Gaming de Gama Media
+AMD Ryzen 5 7600,AMD,6,12,3.8,5.1,32,65,AM5,Gaming de Entrada y Ofimática
+Intel Core i3-14100,Intel,4,8,3.5,4.7,12,60,LGA 1700,Ofimática y Uso Básico
+AMD Ryzen 5 5600G,AMD,6,12,3.9,4.4,16,65,AM4,Ofimática y Gaming Ligero (Con Gráficos Integrados)
+Intel Core Ultra 7 155H,Intel,16,22,1.4,4.8,24,28,BGA,Portátiles de Alto Rendimiento
+AMD Ryzen 9 7945HX,AMD,16,32,2.5,5.4,64,55,FP7,Portátiles Gaming de Alta Gama
+Intel Xeon W9-3495X,Intel,56,112,1.9,4.8,105,420,LGA 4677,Estaciones de Trabajo de Alto Rendimiento
+AMD Threadripper PRO 7995WX,AMD,96,192,2.5,5.1,384,350,sTR5,Estaciones de Trabajo y Computación Profesional
