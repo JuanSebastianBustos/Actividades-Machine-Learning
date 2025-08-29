@@ -17,46 +17,78 @@ Chía
 
 ### Creación de Arreglos
 
-**np.array(lista)**<br>
-Convierte una lista de Python en un arreglo de NumPy.
-![alt text](imagenes\arreglo.png)
+#### **np.array(lista)**<br>
+Convierte una lista de Python en un arreglo de NumPy.<br>
+![alt text](imagenes/arreglo.png)
 
-**Arreglo bidimensional**<br>
-Se pasa una lista de listas.
-![alt text](imagenes\arreglo%20bidimensional.png)
+#### **Arreglo bidimensional**<br>
+Se pasa una lista de listas.<br>
+![alt text](imagenes/arreglo%20bidimensional.png)
 
-**np.zeros((filas, columnas))**<br>
+#### **np.zeros((filas, columnas))**<br>
 Crea un arreglo lleno de ceros.
-![alt text](imagenes\arreglo%20de%20ceros.png)
+![alt text](imagenes/arreglo%20de%20ceros.png)
 
-**np.ones((filas, columnas))**<br>
+#### **np.ones((filas, columnas))**<br>
 Crea un arreglo lleno de unos.
-![alt text](imagenes\arreglo%20de%20unos.png)
+![alt text](imagenes/arreglo%20de%20unos.png)
 
-**np.arange(inicio, fin, paso)**<br>
+#### **np.arange(inicio, fin, paso)**<br>
 Crea un rango de números.
-![alt text](imagenes\arreglo%20con%20rango.png)
+![alt text](imagenes/arreglo%20con%20rango.png)
 
-**np.random.rand(filas, columnas)**<br>
+#### **np.random.rand(filas, columnas)**<br>
 Genera números aleatorios entre 0 y 1.
-![alt text](imagenes\arreglo%20random.png)
+![alt text](imagenes/arreglo%20random.png)
 
 
 ### Cambiar forma de un arreglo (reshape)
 
-**reshape(n, m)**<br>
+#### **reshape(n, m)**<br>
 Cambia la forma del arreglo, pero sin alterar sus valores.
-![alt text](imagenes\cambiar%20forma.png)
+![alt text](imagenes/cambiar%20forma.png)
 
 
 ### Concatenación de arreglos
 
-**np.concatenate((a, b))**<br>
+#### **np.concatenate((a, b))**<br>
 Une dos arreglos.
-![alt text](imagenes\concatenar.png)
+![alt text](imagenes/concatenar.png)
 
 En 2D se puede elegir el eje (axis):<br>
 - axis=0: Une por filas
-- axis=1: Une por columnas
+- axis=1: Une por columnas<br>
+![alt text](imagenes/concatenar%202d.png)
 
-![alt text](imagenes\concatenar%202d.png)
+
+### Operaciones Básicas
+
+#### **Suma**<br>
+![alt text](imagenes/suma.png)
+
+#### **Resta**<br>
+![alt text](imagenes/resta.png)
+
+#### **Multiplicación**<br>
+![alt text](imagenes/multiplicacion.png)
+
+#### **División**<br>
+![alt text](imagenes/division.png)
+
+#### **Potencia**<br>
+![alt text](imagenes/potencia.png)
+
+
+### Operaciones con funciones NumPy
+
+#### **np.mean(arreglo)**<br>
+Calcula la media (promedio).
+![alt text](imagenes/media.png)
+
+#### **np.max(arreglo)**
+Devuelve el valor máximo.
+![alt text](imagenes/maximo.png)
+
+#### **np.min(arreglo)**
+Devuelve el valor mínimo.
+![alt text](imagenes/minimo.png)
