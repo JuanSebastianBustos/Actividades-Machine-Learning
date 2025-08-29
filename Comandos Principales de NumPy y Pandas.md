@@ -53,6 +53,38 @@ secuencia_arange = np.arange(0, 21, 2) print(f"Arreglo con arange(0, 21,
 
 RESULTADO Arreglo con arange(0, 21, 2): \[ 0 2 4 6 8 10 12 14 16 18 20\]
 
+EJERCICIO #5 CODIGO \# Creando una matriz de 2x4 con números aleatorios
+matriz_aleatoria_decimal = np.random.rand(2, 4)
+print("Matriz aleatoria de 2x4:")
+print(matriz_aleatoria_decimal)
+
+RESULTADO 
+Matriz aleatoria de 2x4:
+[[0.64860197 0.09059237 0.09140946 0.04148627]
+ [0.19075457 0.35098679 0.98677383 0.55237791]]
+
+EJERCIO #6  CODIGO \# Multiplicando arrays
+matriz_A = np.array([[1, 2], [3, 4]])
+matriz_B = np.array([[5, 0], [0, 5]])
+
+producto = matriz_A @ matriz_B
+print("Matriz A:\n", matriz_A)
+print("\nMatriz B:\n", matriz_B)
+print("\nProducto de A @ B:\n", producto)
+
+RESULTADO
+
+Matriz A:
+ [[1 2]
+ [3 4]]
+
+Matriz B:
+ [[5 0]
+ [0 5]]
+
+Producto de A @ B:
+ [[ 5 10]
+ [15 20]]
 
 
 
