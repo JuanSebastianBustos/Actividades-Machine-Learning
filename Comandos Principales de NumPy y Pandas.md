@@ -37,10 +37,20 @@ Chía
    + *join*:une usando indices.
      + # *codigo*
      + ![ejemplo de Merge](https://github.com/user-attachments/assets/fbc178c8-087e-426f-97bd-4ad9031218a1)
+     + # *ejecucion*
+     + ![ejecucion del Merge](https://github.com/user-attachments/assets/be006f62-743a-460e-ad9a-837dc5c2b58f)
 + # *4. manejo de valores nulos*
   los valores faltantes (NAN)son comunes en datasets.Pandas ofrece metodos para gestionarlos.
   + df.isnull(), df.dropna(), df.fillna(valor).
++ # *codigo*
+  + ![codigo de manejo de valores](https://github.com/user-attachments/assets/c183f71c-b9dd-4ad9-bbe1-991a7ccad1d0)
++ # *ejecucion*
+ + ![ejecucion de manejo de valores nulos](https://github.com/user-attachments/assets/328f9eec-4625-46a8-90ae-462792459558)
 + # *5. exportacion/inportacion*
    se puede trabajar facilmente con diferentes formatos de archivo:
     + *importar:* pd.read_csv("archivo.csv") , pd.read_excel("archivo.xlsx")
     + *exportar:* df.to_csv("archivo.csv",index=False),df.to_excel("archivo.xlsx)"
+    + # *codigo*
+    +  ![codigo de exportacion/inportacion](https://github.com/user-attachments/assets/34353006-944c-4494-bfd1-216184d62574)
+  + # *ejecucion*
+      ![ejecucion de manejo de valores](https://github.com/user-attachments/assets/329f7e62-cb44-4bfd-81bd-e39cdd213fe4)
