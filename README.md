@@ -15,4 +15,6 @@ El objetivo de esta tarea es que los estudiantes desarrollen un datasheet en for
 1. **NumPy – Creación y manipulación de arreglos (arrays, reshape, concatenar, operaciones básicas):** Juan Sebastián Bustos 
 2. **NumPy – Operaciones estadísticas y funciones avanzadas (mean, std, sum, arange, linspace, random, álgebra lineal):** Andres Felipe Venegas
 3. **Pandas – Creación y manipulación de DataFrames y Series (DataFrame, Series, carga de datos, selección de columnas, tipos de datos):** Cristian Camilo Naranjo
-4. **Pandas – Operaciones avanzadas en DataFrames (filtros, groupby, merge/join, manejo de valores nulos, exportación/importación):** Daniela Alejandra Alvarez 
+4. **Pandas – Operaciones avanzadas en DataFrames (filtros, groupby, merge/join, manejo de valores nulos, exportación/importación):** Daniela Alejandra Alvarez
+
+  
